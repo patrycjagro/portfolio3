@@ -16,7 +16,7 @@ const Home: React.FC = () => {
             <div className="homemain">
                 <img className="mobile-img" src="ciemnoniebieska-fioletowa-technologiczna-aplikacja-biznesowa-str.png" alt="Obrazek" />
                 <div className="homesecond" ref={homesecondRef}>
-                    <div className="hometext">UI DESIGNER</div>
+                    <div className="hometext">GRAPHIC DESIGNER</div>
                     <img className="img" src="ciemnoniebieska-fioletowa-technologiczna-aplikacja-biznesowa-str.png" alt="Obrazek" />
                     <img className="pat" src="obraz-2023-10-11-143043773-1.png" alt="Patka" />
                 </div>
