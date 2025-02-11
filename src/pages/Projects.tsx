@@ -48,8 +48,27 @@ import image41 from "../assets/img/image41.jpg"
 import image42 from "../assets/img/image42.jpg"
 import image43 from "../assets/img/image43.jpg"
 import image44 from "../assets/img/image44.jpg"
+import image45 from "../assets/img/image45.png"
+import image46 from "../assets/img/image46.png"
+import image47 from "../assets/img/image47.png"
+import image48 from "../assets/img/image48.png"
+import image49 from "../assets/img/image49.png"
+import image50 from "../assets/img/image50.png"
+import image51 from "../assets/img/image51.png"
+import image52 from "../assets/img/image52.png"
+import image53 from "../assets/img/image53.png"
+
 
 const images = [
+    image45,
+    image46,
+    image47,
+    image48,
+    image49,
+    image50,
+    image51,
+    image52,
+    image53,
     image36,
     image37,
     image38,
