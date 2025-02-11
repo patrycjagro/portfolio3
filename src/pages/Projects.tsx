@@ -57,7 +57,10 @@ import image50 from "../assets/img/50.png"
 import image51 from "../assets/img/51.png"
 import image52 from "../assets/img/52.png"
 import image53 from "../assets/img/53.png"
-
+import image54 from "../assets/img/54.png"
+import image55 from "../assets/img/55.png"
+import image56 from "../assets/img/56.png"
+import image57 from "../assets/img/57.png"
 
 const images = [
     image45,
@@ -69,6 +72,10 @@ const images = [
     image51,
     image52,
     image53,
+    image54,
+    image55,
+    image56,
+    image57,
     image36,
     image37,
     image38,
