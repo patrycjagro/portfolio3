@@ -61,8 +61,27 @@ import image54 from "../assets/img/54.png"
 import image55 from "../assets/img/55.png"
 import image56 from "../assets/img/56.png"
 import image57 from "../assets/img/57.png"
-
+import image58 from "../assets/img/58.jpg"
+import image59 from "../assets/img/59.png"
+import image60 from "../assets/img/60.png"
+import image61 from "../assets/img/61.png"
+import image62 from "../assets/img/62.png"
+import image63 from "../assets/img/63.jpg"
+import image64 from "../assets/img/64.jpg"
+import image65 from "../assets/img/65.png"
+import image66 from "../assets/img/66.png"
+import image67 from "../assets/img/67.png"
 const images = [
+    image65,
+    image66,
+    image67,
+    image58,
+    image59,
+    image60,
+    image61,
+    image62,
+    image63,
+    image64,
     image45,
     image46,
     image47,
