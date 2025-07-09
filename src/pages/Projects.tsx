@@ -10,7 +10,7 @@ const images = imagesContext.keys().map((key: string) => imagesContext(key).defa
 const Projects = () => {
     return (
         <div className="masonry-container">
-            <div className="galleryText">Gallery</div>
+            <div className="galleryText">Galeria</div>
             <ResponsiveMasonry columnsCountBreakPoints={{ 350: 1, 750: 2, 900: 3 }}>
                 <Masonry gutter="10px">
                     {images.map((image: string, index: number) => (
@@ -18,7 +18,7 @@ const Projects = () => {
                             <img
                                 src={image}
                                 style={{ width: "100%", display: "block" }}
-                                alt={`Project ${index + 1}`}
+                                alt={`Projekt ${index + 1}`}
                             />
                         </div>
                     ))}
