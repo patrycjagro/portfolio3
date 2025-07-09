@@ -4,7 +4,7 @@ import "./styles/project.css";
 import insta from "../assets/img/png-clipart-instagram-logo-computer-icons-insta-logo-text-comput.png";
 
 // Dynamically import all images from the assets/img directory
-const imagesContext = require.context("../assets/img", false, /\.(png|jpe?g)$/);
+const imagesContext = require.context("../assets/images", false, /\.(png|jpe?g)$/);
 const images = imagesContext.keys().map((key: string) => imagesContext(key).default || imagesContext(key));
 
 const Projects = () => {
